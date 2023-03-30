@@ -50,11 +50,11 @@
   --font-size: 100%;
 
   /*[MENTION COLORS]*/
-  --mention-color: #4b; /*The color messages that mention you will highlight in*/
-  --mention-sider: #7f; /*The small bar on the left of a message that mentions you*/
-  --mention-hover-color: #5f; /*The color a mention highlight changes to when you hover over it*/
+  --mention-color: #3afff3; /*The color messages that mention you will highlight in*/
+  --mention-sider: #3afff3; /*The small bar on the left of a message that mentions you*/
+  --mention-hover-color: #fb6aff; /*The color a mention highlight changes to when you hover over it*/
 
-  --category-hover-color: #5f; /*Color that categories change to when hovered over*/
+  --category-hover-color: #fb6aff; /*Color that categories change to when hovered over*/
 
   --unread-server-animation: rainbow; /*The color animation that appears over server icons with unreads. Best to leave this be.*/
 
@@ -99,13 +99,13 @@
   --channel-limit-background-left: rgba(200, 200, 200, 0.1);
   --channel-limit-background-right: rgba(200, 200, 200, 0.2);
 
-  --scrollbar-color: #89;
+  --scrollbar-color: #fb6aff;
 
-  --unread-message-divider-color: #f04747;
-  --unread-message-divider-font-color: #fff;
+  --unread-message-divider-color: #3afff3;
+  --unread-message-divider-font-color: #3afff3;
 
   --new-messages-bar-background-color: var(--main-theme-color); /*The bar atop the screen saying "x new messages" when you're in a channel with unreads*/
-  --new-messages-bar-font-color: #fff;
+  --new-messages-bar-font-color: #3afff3;
 
   --emoji-menu-background-color: rgba(0, 0, 0, 0.6);
   --emoji-menu-sider-background-color: rgba(0, 0, 0, 0);
@@ -120,8 +120,8 @@
   --text-voice-channel-color: rgb(142, 146, 151);
   --text-voice-channel-hover-color: #dcddde;
   --text-voice-channel-selected-text-color: #fff;
-  --unread-text-channel-color: #;
-  --unread-text-channel-bubble-color: #;
+  --unread-text-channel-color: #3afff3;
+  --unread-text-channel-bubble-color: #3afff3;
 
   --folder-background-color: #2f3136;
   --expanded-folder-background-color: transparent;
