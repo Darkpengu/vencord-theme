@@ -50,11 +50,11 @@
   --font-size: 100%;
 
   /*[MENTION COLORS]*/
-  --mention-color: #3afff3; /*The color messages that mention you will highlight in*/
+  --mention-color: #4b; /*The color messages that mention you will highlight in*/
   --mention-sider: #3afff3; /*The small bar on the left of a message that mentions you*/
-  --mention-hover-color: #fb6aff; /*The color a mention highlight changes to when you hover over it*/
+  --mention-hover-color: #5f; /*The color a mention highlight changes to when you hover over it*/
 
-  --category-hover-color: #fb6aff; /*Color that categories change to when hovered over*/
+ --category-hover-color: rgb(60, 202, 138); /*Color that categories change to when hovered over*/
 
   --unread-server-animation: rainbow; /*The color animation that appears over server icons with unreads. Best to leave this be.*/
 
