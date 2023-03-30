@@ -139,6 +139,4 @@
 /*Make the Channel Tabs plugin background invisible so it's flush with your theme's background*/
 .channelTabs-tabContainer, .channelTabs-container {background: 0 0!important; background-color: initial !important;
 
-$ git clone https://github.com/Darkpengu/REPO.git
-Username: Darkpengu
-Password: pengu1114}
+  -H “Authorization: Token $MY_PAT” 
