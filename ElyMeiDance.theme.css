@@ -101,8 +101,8 @@
 
   --scrollbar-color: #fb6aff;
 
-  --unread-message-divider-color: #3afff3;
-  --unread-message-divider-font-color: #3afff3;
+  --unread-message-divider-color: #fff;
+  --unread-message-divider-font-color: #fff;
 
   --new-messages-bar-background-color: var(--main-theme-color); /*The bar atop the screen saying "x new messages" when you're in a channel with unreads*/
   --new-messages-bar-font-color: #3afff3;
