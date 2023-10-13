@@ -73,7 +73,7 @@
   --small-user-popout-background-transparency: rgba(0,0,0, 0.7);
   --small-user-popout-background-image-position: center;
 
-  --big-user-popout-background-image: url(https://cdn.discordapp.com/attachments/964316437273542709/1090852696036229210/elymeidance.png);
+  --big-user-popout-background-image: url(https://cdn.discordapp.com/attachments/1068254288050147500/1162275698367549440/Ft5v5tGagAEVVCd.jpeg);
   --big-user-popout-background-transparency: rgba(0,0,0, 0.7);
   --big-user-popout-background-image-position: center;
 
