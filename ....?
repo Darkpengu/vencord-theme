@@ -27,7 +27,7 @@
 
   /*[MAIN THEME SETTINGS]*/
   /*Some important settings that will change the majority of your client.*/
-  --theme-background-image: url(https://cdn.discordapp.com/attachments/964316437273542709/1149024143963066379/cropped-2560-1440-1318424.jpeg); /*The main image over your whole Discord client*/
+  --theme-background-image: url(); /*The main image over your whole Discord client*/
   --main-theme-color: rgb(189, 48, 172); /*The default theme color*/
   --theme-transparency: rgba(0, 0, 0, 0.6); /*The mask that applies over the background*/
   --home-icon-image: url(https://cdn.discordapp.com/attachments/964316437273542709/1090853088656638022/FB_IMG_1652329404092.jpg); /*Your friends icon*/
