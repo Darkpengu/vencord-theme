@@ -27,7 +27,7 @@
 
   /*[MAIN THEME SETTINGS]*/
   /*Some important settings that will change the majority of your client.*/
-  --theme-background-image: url(https://cdn.discordapp.com/attachments/964316437273542709/1217299699027935312/DOWNLOAD__st_louis_and_st_louis_azur_lane_drawn_by_yd_orange_maru__4245af37548bab093ce5c341b180ace2_waifu2x_noise3_scale4x.png?ex=660385b0&is=65f110b0&hm=6e5c89faa5505b0a605ae8a1eb4597fb4721f8cdc6dfb220f4626d19162ee309&); /*The main image over your whole Discord client*/
+  --theme-background-image: url(https://cdn.discordapp.com/attachments/964316437273542709/1217299699027935312/DOWNLOAD__st_louis_and_st_louis_azur_lane_drawn_by_yd_orange_maru__4245af37548bab093ce5c341b180ace2_waifu2x_noise3_scale4x.png?ex=660385b0&is=65f110b0&hm=6e5c89faa5505b0a605ae8a1eb4597fb4721f8cdc6dfb220f4626d19162ee309&.jpg); /*The main image over your whole Discord client*/
   --main-theme-color: rgb(189, 48, 172); /*The default theme color*/
   --theme-transparency: rgba(0, 0, 0, 0.7); /*The mask that applies over the background*/
   --home-icon-image: url(https://cdn.discordapp.com/attachments/964316437273542709/1090853088656638022/FB_IMG_1652329404092.jpg); /*Your friends icon*/
