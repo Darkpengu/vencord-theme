@@ -27,10 +27,10 @@
 
   /*[MAIN THEME SETTINGS]*/
   /*Some important settings that will change the majority of your client.*/
-  --theme-background-image: url(https://cdn.discordapp.com/attachments/1088273897008414851/1229249000117501992/117062300_p0_master1200.jpg?ex=662efe57&is=661c8957&hm=edc38bb2b872d23a2b51f634db5ed637871a8791b23f9aa5d855db6d4bd96935&.jpg); /*The main image over your whole Discord client*/
+  --theme-background-image: url(https://pbs.twimg.com/media/GQFGv7eaQAAwfTm?format=jpg&name=4096x4096); /*The main image over your whole Discord client*/
   --main-theme-color: rgb(189, 48, 172); /*The default theme color*/
-  --theme-transparency: rgba(0, 0, 0, 0.7); /*The mask that applies over the background*/
-  --home-icon-image: url(https://cdn.discordapp.com/attachments/964316437273542709/1216653428210794526/illust_116671374_20240311_004128.jpg?ex=66012bcd&is=65eeb6cd&hm=77d48b43607c14936f953e488e4beb22d7afb3437e2362787ea1cf08746f8bd6&.jpg); /*Your friends icon*/
+  --theme-transparency: rgba(0, 0, 0, 0.5); /*The mask that applies over the background*/
+  --home-icon-image: url(https://cdn.discordapp.com/attachments/964316437273542709/1252822220242288732/i8orrjdh6mf81.png?ex=66739d1d&is=66724b9d&hm=93dd4b7858322389b8eab48970be25d8b9d2270f9e85c55671f90f8c7459e8e1&); /*Your friends icon*/
   --home-icon-image-position: center center;
   --home-icon-image-zoom: 100%;
 
